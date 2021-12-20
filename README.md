@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Odunayo Odebiyi
 - 👀 I’m interested in partnering with businesses through the use of data to improve its people and automatically impact business results
-- 🌱 I’m currently learning Business Analytics tools (SQL,Python,R, Data analytics,Advanced excel,Tableau) at Hult International Business School
+- I'm currently enrolled at Hult for a Master's degree in Business Analytic
+- 🌱 I have learnt python,Tableau,Advanced Excel,Machine Learning and Data Analytics and will be learning R,SQL.
 - 💞️ I’m looking to collaborate on data projects that impacts business and people results.
 - 📫 How to reach me oduntemi1@gmail.com or Linkedin https://www.linkedin.com/in/odunayo-odebiyi-sphri-acipm-31b67564/
